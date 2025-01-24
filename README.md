@@ -1,5 +1,5 @@
 # Nombre alumno:
-    - [Marcela Carolina Menjívar Gutiérrez](https://www.github.com/mgmarce)
+- [Marcela Carolina Menjívar Gutiérrez](https://www.github.com/mgmarce)
 
 # Proyecto Laravel API
 
