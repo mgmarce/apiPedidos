@@ -1,3 +1,6 @@
+# Nombre alumno:
+    - [Marcela Carolina Menjívar Gutiérrez](https://www.github.com/mgmarce)
+
 # Proyecto Laravel API
 
 Este proyecto es una API construida con el framework Laravel. Proporciona un conjunto de endpoints para gestionar pedidos.
